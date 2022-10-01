@@ -1,0 +1,175 @@
+.bg-light{
+    background-color: rgb(92, 92, 93)!important;
+    display: flex;
+}
+
+
+.logo-codo-a-codo{
+    width: 9%;
+    height: 9%;
+    margin-left: 3%;
+}
+
+.titulonav{
+    color: white;
+    font-size: 200%;
+}
+
+h6{
+    padding-top: 2%;
+    text-align: center;
+    color: rgb(70, 70, 70);
+}
+
+h3{
+    text-align: center;
+    font-size: 180%;
+}
+h4{
+    text-align: center;
+    font-size:medium;
+    font-family: sans-serif;
+}
+h5{
+   font-family: Times;
+}
+.conf{
+text-align: end;
+}
+.titulo{
+    font-size:x-large;
+}
+.navbar-expand-lg .navbar-nav{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.collapse {
+    justify-content: end !important;
+    padding-right: 5%;
+}
+
+.link1{
+    color: rgb(255, 255, 255);
+}
+.link2{
+    color: rgb(186, 184, 184);
+}
+.link3{
+    color: rgb(55, 255, 0);
+}
+
+
+a {
+    padding-left: 20px;
+}
+
+.carousel-caption{
+    text-align: end;
+}
+p{
+   margin-left: 40%;
+}
+#secondcolor{
+    color: azure;
+ }
+
+.boton1{
+    background: none;
+    color: rgb(250, 250, 250);
+    padding: 0.5%;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+}
+
+.boton2{
+    background-color: green;
+    color: azure;
+    padding: 0.5%;
+}
+
+.boton3{
+    margin-top: 1%;
+    background: none;
+    color: rgb(250, 250, 250);
+    padding: 0.5%;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-radius: 0.3rem
+}
+
+.carousel-control-next{
+    opacity:0;
+}
+.carousel-control-prev {
+    opacity:0;
+}
+.tarjetas{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+
+.card-text{
+    margin-left: 0%;
+}
+
+.imagen{
+width: 50%;
+}
+
+.sobreBuenosAires{
+    display: flex;
+    background-color:rgb(70, 70, 70);
+}
+.texto{
+    padding-left: 1%;
+    padding-top: 1%;
+    text-align: left;
+    color: azure;
+}
+.form-control{
+
+    width: 50%;
+}
+.form-floating1{
+    display: flex;
+    width: 50%;
+
+}
+.enviar{
+    display: flex;
+    justify-content: center;
+    border: none;
+}
+.btn-success{
+    background-color: rgb(156, 211, 84);
+    padding: 1%;
+    color: white;
+    width: 50%;
+    border:none;
+    border-radius: 0.5rem;
+}
+.nombreyapellido{
+    display: flex;
+    justify-content: center;
+}
+textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.label{
+    text-align: center;
+}
+.footer{
+    padding-top: 2%;
+    color: aliceblue;
+}
+.navbarr{
+    background-color: aqua;
+}
+.collapse{
+    justify-content: space-around;
+}
